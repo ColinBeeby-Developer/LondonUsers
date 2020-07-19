@@ -28,7 +28,7 @@ git clone https://github.com/ColinBeeby-Developer/LondonUsers
 Now run the script to set up the required packages
 
 ```
-cd dwp-test
+cd LondonUsers
 ./setup.sh
 ```
 
