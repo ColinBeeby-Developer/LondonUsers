@@ -57,7 +57,7 @@ curl -X GET http://localhost:8000/users/london
 To run the automated unit tests which are included with this solution, in the dwp-test folder run the following commands.
 
 ```
-python -m unittest discover -k unit_test -v
+python3 -m unittest discover -k unit_test -v
 ```
 
 To run the automated integration tests which are included with this solution, in the dwp-test folder run the following commands.
@@ -70,5 +70,5 @@ gunicorn londonersapi:app
 On another instance of the command line
 
 ```
-python -m unittest discover -k integration_test -v
+python3 -m unittest discover -k integration_test -v
 ```
