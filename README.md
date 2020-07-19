@@ -19,7 +19,7 @@ This solution has been deployed as a Heroku app. [Click here](https://londoners.
 
 ## Getting Started
 
-To get the software for dwp-test, please run the following
+To get the software for LondonUsers, please run the following
 
 ```
 git clone https://github.com/ColinBeeby-Developer/LondonUsers
@@ -32,9 +32,7 @@ cd LondonUsers
 ./setup.sh
 ```
 
-### Running dwp-test locally
-
-You will need to have python3 set up as your default python instance in order to run this code.
+### Running LondonUsers locally
 
 ```
 gunicorn londonersapi:app
