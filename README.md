@@ -22,7 +22,7 @@ This solution has been deployed as a Heroku app. [Click here](https://londoners.
 To get the software for dwp-test, please run the following
 
 ```
-git clone https://github.com/ColinBeeby-Developer/dwp-test
+git clone https://github.com/ColinBeeby-Developer/LondonUsers
 ```
 
 Now run the script to set up the required packages
